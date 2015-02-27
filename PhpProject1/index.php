@@ -10,8 +10,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <p>Hello world</p>
+        <p>시험 프로젝트 빡심 ㅡㅡ;;;fggfdfth</p>
     </body>
 </html>
